@@ -1,4 +1,4 @@
-import { RecoilRoot, useRecoilState, useRecoilValue } from "recoil";
+import { RecoilRoot } from "recoil";
 import { CharacterCounter } from "./components/CharacterCounter";
 import "./App.css";
 
